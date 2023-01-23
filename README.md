@@ -11,15 +11,15 @@ python main.py
 
 # App Project
 
-Clonar repositorio a local  
+* Clonar repositorio a local  
 
-Ubicarse al nivel de carpeta de trabajo -app-  
+* Ubicarse al nivel de carpeta de trabajo -app-  
 
-Creación ambiente virtual y activación  
+* Creación ambiente virtual y activación  
 
-Instalación de requerimientos del proyecto -requirements.txt-  
+* Instalación de requerimientos del proyecto -requirements.txt-  
 
-Ejecutar en terminal main.py
+* Ejecutar en terminal main.py
 
 ```sh
 
